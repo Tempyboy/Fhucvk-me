@@ -1,10 +1,13 @@
-<h1>¡Minecraft server for GH Codespaces!</h1>
-<a href="https://imgbb.com/"><img src="https://i.ibb.co/m9yT8kd/msp-logo.png" alt="msp-logo" border="0"></a>
-<h3>How to use it?</h3>
+<h1>Minecraft server for GH Codespaces!</h1>
+<h3><u>Many thanks to <a href="https://github.com/Luc4st1574">Lucast</a> for founding and actively supporting the project!</u></h3>
+<hr>
+<h3>¿How to use it?</h3>
 <ol>
-  <li>Make a <strong>fork</strong> to this repository</li>
-  <li><a href="https://github.com/codespaces/new">Create a new codespace<a/> and in <strong>Repository</strong> choose the repository that you forked.</li>
-  <li>Click the option <strong>servidor.py</strong> and on the notification that appers on the down right part, you must click on install</li>
-  <li>Click the option <strong>servidor.py</strong> and then you execute the script on the button on the up right part</li>
-  <li>And that is all, Enjoy!</li>
+  <li><strong>Fork</strong> this repository</li>
+  <li><a href="https://github.com/codespaces/new">Create a new codespace<a/>, in <strong>Repository</strong> select the repository you've forked.</li>
+  <li>Click file <strong>servidor.py</strong> and on the notification that appears down on the right part, you must click on install.</li>
+  <li>Click <strong>servidor.py</strong> again and execute it from the top right play button.</li>
+  <li>Everything is ready, enjoy!</li>
+  <br>
+  <center><img src="https://i.ibb.co/m9yT8kd/msp-logo.png" alt="msp-logo" border="0"></center>
 </ol>
