@@ -1,6 +1,6 @@
 <h1>¡Minecraft server for GH Codespaces!</h1>
 <a href="https://imgbb.com/"><img src="https://i.ibb.co/m9yT8kd/msp-logo.png" alt="msp-logo" border="0"></a>
-<h3>Jow to use it?</h3>
+<h3>How to use it?</h3>
 <ol>
   <li>Make a <strong>fork</strong> to this repository</li>
   <li><a href="https://github.com/codespaces/new">Create a new codespace<a/> and in <strong>Repository</strong> choose the repository that you forked.</li>
