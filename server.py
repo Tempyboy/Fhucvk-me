@@ -15,13 +15,7 @@
 # us		  United States (Ohio)
 # us-cal-1	  United States (California)
 
-# Note: every 2 hours, you must edit this file to stop github from timing you out
-
-
-
-
-
-
+# Note: every 2 hours, you must edit this file to stop github from timing you out 
 
 
 
